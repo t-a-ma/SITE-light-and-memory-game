@@ -39,8 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
-
+![GIF demonstrating full memory game](https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/make_sound.gif)
+![GIF demonstrating a mistake](https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/mistake.gif)
+![GIF demonstrating stopping halfway through](https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/stop_halfway.gif)
 
 
 ## Reflection Questions
