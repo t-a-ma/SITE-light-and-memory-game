@@ -6,7 +6,7 @@ Submitted by: Tina Ma
 
 Time spent: 6 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/site-memory-light-game?
 
 ## Required Functionality
 
